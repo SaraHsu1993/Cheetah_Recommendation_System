@@ -1,5 +1,5 @@
 # Cheetah_Recommendation_System
-It is a recommendation project using transfer learning method
+This project aims at making content recommendations to new users of Cheetah Mobile based on only the user's profiles and app installaion information. The transfer learning method we use here is CoHTL.
 
 # What you need to do
 1. You need to put your dataset into the "data" folder
